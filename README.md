@@ -1,1 +1,1 @@
-# Recognize-Handwritten-Digits-CodeClause
+# Recognize-Handwritten-Digits
